@@ -1,0 +1,14 @@
+baseURL: https://moment.zsx815.top
+languageCode: zh-Hans
+theme: moments
+pagination:
+    path: .
+    pagerSize: 10
+
+params:
+    title: "ZSXのMoments"
+    signature: "造化钟神秀，阴阳割昏晓。"
+    cover: "default-background.png"
+
+    name: "钟神秀"
+    avatar: "avatar.jpg"
