@@ -55,6 +55,9 @@
 
 
 
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
 
 
 
@@ -242,11 +245,31 @@
                     <div class="moment-note">
                         <p class="note"><span class="note-time">21:52</span><span class="note-context"></span></p>
                         <div class="buttons" style="display: flex;">
-                            
+                            <div class="comment-btn" id="comment-btn-0"><i class="far fa-comment"></i></div>
                             <div class="like-btn"><i class="far fa-heart"></i></div>
                         </div>
                     </div>
 
+                    
+                    <div id="row-comment-0" style="display: none;">
+                        <div id="gitalk-container-0"></div>
+                    </div>
+                    <script type="text/javascript">
+                        var gitalk = new Gitalk({
+                            clientID: 'Ov23li4jCqB4l2m9ys17',
+                            clientSecret: 'db41b87fdaf0d3d101c8eb34188f5effb4bb9356',
+                            repo: 'hugo-moment',
+                            owner: 'mcyzsx',
+                            admin: ['mcyzsx'],
+                            id: '1',      
+                            distractionFreeMode: false  
+                        })
+
+                        $("#comment-btn-0").on('click', function(){
+                            $("#row-comment-0").slideToggle("slow");
+                            gitalk.render('gitalk-container-0')
+                        });
+                    </script>
                     
                 </div>
 

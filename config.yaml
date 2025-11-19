@@ -12,3 +12,6 @@ params:
 
     name: "钟神秀"
     avatar: "avatar.jpg"
+
+    experimental:
+      comment: true
