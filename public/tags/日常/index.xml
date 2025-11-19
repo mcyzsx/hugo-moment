@@ -6,8 +6,15 @@
     <description>Recent content in 日常 on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Tue, 18 Nov 2025 21:52:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 23:43:22 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/2/</link>
+      <pubDate>Wed, 19 Nov 2025 23:43:22 +0800</pubDate>
+      <guid>http://localhost:1313/moments/2/</guid>
+      <description>&lt;p&gt;今天算是完善了一下友链页，当然未来说不定还会重构？&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/moments/1/</link>
