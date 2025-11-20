@@ -2,24 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://moment.zsx815.top/</loc>
+    <lastmod>2025-11-20T23:38:00+08:00</lastmod>
+  </url><url>
+    <loc>https://moment.zsx815.top/moments/3/</loc>
+    <lastmod>2025-11-20T23:38:00+08:00</lastmod>
+  </url><url>
+    <loc>https://moment.zsx815.top/moments/</loc>
+    <lastmod>2025-11-20T23:38:00+08:00</lastmod>
+  </url><url>
+    <loc>https://moment.zsx815.top/tags/</loc>
+    <lastmod>2025-11-20T23:38:00+08:00</lastmod>
+  </url><url>
+    <loc>https://moment.zsx815.top/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2025-11-20T23:38:00+08:00</lastmod>
+  </url><url>
+    <loc>https://moment.zsx815.top/moments/2/</loc>
     <lastmod>2025-11-19T23:43:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/moments/2/</loc>
-    <lastmod>2025-11-19T23:43:22+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/moments/</loc>
-    <lastmod>2025-11-19T23:43:22+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-19T23:43:22+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2025-11-19T23:43:22+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/moments/1/</loc>
+    <loc>https://moment.zsx815.top/moments/1/</loc>
     <lastmod>2025-11-18T21:52:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://moment.zsx815.top/categories/</loc>
   </url>
 </urlset>
