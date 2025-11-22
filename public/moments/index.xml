@@ -2,38 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moments on </title>
-    <link>https://moment.zsx815.top/moments/</link>
+    <link>http://localhost:1313/moments/</link>
     <description>Recent content in Moments on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Fri, 21 Nov 2025 23:57:04 +0800</lastBuildDate>
-    <atom:link href="https://moment.zsx815.top/moments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Nov 2025 23:19:39 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/moments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://moment.zsx815.top/moments/4/</link>
+      <link>http://localhost:1313/moments/5/</link>
+      <pubDate>Sat, 22 Nov 2025 23:19:39 +0800</pubDate>
+      <guid>http://localhost:1313/moments/5/</guid>
+      <description>&lt;p&gt;今天添加了新的设备页面，感谢&lt;a href=&#34;https://github.com/matsuzaka-yuki/Mizuki&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;strong&gt;Mizuki&lt;/strong&gt;&lt;/a&gt;~，然后添加了日历、站点信息、最新评论的组件。Mizuki打算在blog-v3和主页重构后再重构。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/4/</link>
       <pubDate>Fri, 21 Nov 2025 23:57:04 +0800</pubDate>
-      <guid>https://moment.zsx815.top/moments/4/</guid>
+      <guid>http://localhost:1313/moments/4/</guid>
       <description>&lt;p&gt;今天算是勉强搞了音乐馆页面，未来或许会重构？&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.zsx815.top/moments/3/</link>
+      <link>http://localhost:1313/moments/3/</link>
       <pubDate>Thu, 20 Nov 2025 23:38:00 +0800</pubDate>
-      <guid>https://moment.zsx815.top/moments/3/</guid>
+      <guid>http://localhost:1313/moments/3/</guid>
       <description>&lt;p&gt;今天重新搞了下博客的关于页面，参考了下面的博客。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.zsx815.top/moments/2/</link>
+      <link>http://localhost:1313/moments/2/</link>
       <pubDate>Wed, 19 Nov 2025 23:43:22 +0800</pubDate>
-      <guid>https://moment.zsx815.top/moments/2/</guid>
+      <guid>http://localhost:1313/moments/2/</guid>
       <description>&lt;p&gt;今天算是完善了一下友链页，当然未来说不定还会重构？&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.zsx815.top/moments/1/</link>
+      <link>http://localhost:1313/moments/1/</link>
       <pubDate>Tue, 18 Nov 2025 21:52:23 +0800</pubDate>
-      <guid>https://moment.zsx815.top/moments/1/</guid>
+      <guid>http://localhost:1313/moments/1/</guid>
       <description>&lt;p&gt;测试日常&lt;/p&gt;</description>
     </item>
   </channel>
